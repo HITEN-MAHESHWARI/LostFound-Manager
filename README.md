@@ -141,7 +141,7 @@ struct Item {
 
 ## 👨‍💻 Author
 
-**Danish Raheem**  
+**Danish Raheem & Hiten Kalani**  
 _Built with C — simple, efficient, and to the point._
 
 > *"How did you find my secret..?? anyway hi!"* 🙂
