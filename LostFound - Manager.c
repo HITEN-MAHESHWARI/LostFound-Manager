@@ -133,7 +133,7 @@ int main(){
         else printf("Invalid choice!\n");
     }
 	
-	printf("\n-Made by Danish Raheem,ThankYou.\n");
+	printf("\n-Made by Danish Raheem & Hiten Kalani,ThankYou.\n");
 	
     return 0;                                 // End program
 }
